@@ -212,11 +212,6 @@ h3 {
 
 .chair-price strong {
   color: #444;
-  text-shadow:
-    1px 0px 0px #087f5b,
-    -1px 0px 0px #087f5b,
-    0px 1px 0px #087f5b,
-    0px -1px 0px #087f5b;
   font-size: 1.25rem;
 }
 
